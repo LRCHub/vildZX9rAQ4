@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夕刻、夢ト見紛ウ",
+  "base_artist": "After the Rain",
+  "createdAt": "2026-03-06T05:09:06.551884Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夕刻、夢ト見紛ウ",
+      "artist": "After the Rain",
+      "has_synced": false,
+      "path": "select/pl_01_夕刻、夢ト見紛ウ_After_the_Rain.txt"
+    }
+  ]
+}
